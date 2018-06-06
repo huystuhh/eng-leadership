@@ -30,6 +30,7 @@ Please invest in your 1:1s -- it's your time. You own your 1:1, so it is my expe
 1. What are you worried about?
 2. What's some work that you've done recently that you're proud of?
 3. What's bothering you?
+4. What's blocking you from meeting your goals?
 
 I often will come with questions for you -- in particular, if there's an organizational or engineering focus shift, expect me to come and ask you about it.
 
@@ -44,6 +45,8 @@ A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll 
 I strive to be direct and clear in my feedback and direction. When you come to me with an issue or challenge I'll try and ask what you're looking for: advice or coaching. You can think of coaching as having me try to point you in the right direction without giving you what I think the answer is. If I'm not giving you the right kind of help, just tell me!
 
 If we leave our 1:1 and you feel like something was unclear, just ping me. Know that I never want to leave things hanging or have you leave a conversation feeling uncomfortable.
+
+You can expect me to devote some time each 1:1 to growth topics -- this can take the form of a conversation on your role at Casper, your career goals (both short and long term), and ways I (and engineering leadership) at Casper help you meet those goals. I'll more than likely keep notes of these conversations so we can easily check-in on progress in the future.
 
 If you disagree with something I do, come and talk to me. I'm always happy to talk through decisions.
 
