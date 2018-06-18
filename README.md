@@ -5,7 +5,7 @@
 ### Feedback
 
 1. How do you like feedback - the medium (Slack, email, in-person, etc.)
-> Personally, I like feedback in-person. I'm also open to having tricky conversations over Slack, but when I said I want to take it offline, I ask that you respect that.
+> Personally, I like feedback in-person. I'm also open to having tricky conversations over Slack, but when I say I want to take it offline, I ask that you respect that.
 2. How do you like feedback - routine like in 1:1s, or as-it-happens
 > Timely feedback is always better for me -- just grab me!
 3. How do you prefer to receive recognition? (public or private)
@@ -16,7 +16,7 @@
 1. What makes 1:1s the most valuable for you?
 > 1:1s are a time for me to voice what I'm worried about.
 2. What are your goals for this year? And for the next three months?
-> In my role as an engineering leadership sponsor I want to continue to improve our back-of-house systems' reliability and simplicity and support Casper's growth in the wholesale 
+> In my role as an engineering leadership sponsor I want to continue to improve our back-of-house systems' reliability and simplicity and support Casper's growth in the wholesale
 3. What do you need from your manager?
 > I need help solving problems. I don't need help tracking against goals -- I just want clear expectations so I know where I stand and I want help solving specific problems that I come to you with. I will often start a conversation with "Here's what I'm looking for...".
 4. From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
@@ -27,7 +27,7 @@
 ### Expectations of folks who report to me
 
 Please invest in your 1:1s -- it's your time. You own your 1:1, so it is my expectation is for you to come with a topic to discuss. Here are some ideas:
-1. What are you worried about?
+1. What are you worried or concerned about?
 2. What's some work that you've done recently that you're proud of?
 3. What's bothering you?
 4. What's blocking you from meeting your goals?
