@@ -36,7 +36,7 @@ I often will come with questions for you -- in particular, if there's an organiz
 
 Outside of 1:1s, I expect you to track progress against the OKRs you've written each quarter. We should have a doc where we're tracking those -- please leave comments in the doc letting me know where you're at with your key results. If you are having issues with one of them, leave a note, and we'll talk about it during our 1:1. If focuses/goals need to change, that's fine! Let's just keep an open dialogue. Not meeting a key result or having to change your objectives because of shifting company or engineering priorities is fine, not meeting your goals because you forgot about them isn't okay.
 
-Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount you take is up to you, but I advise folks to take at least 3-5 days per quarter. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well.
+Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount you take is up to you, but I advise folks to take at least 5 days per quarter. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well.
 
 ### What to expect of me as your manager
 
