@@ -16,7 +16,7 @@
 1. What makes 1:1s the most valuable for you?
 > 1:1s are a time for me to voice what I'm worried about.
 2. What are your goals for this year? And for the next three months?
-> In my role as an engineering leadership sponsor I want to continue to improve our back-of-house systems' reliability and simplicity and support Casper's growth in the wholesale
+> Build a cross-functional team of engineering and product leaders to support the goals of our campaign. Support the growth of those who report to me by pushing them out of their comfort zone and into new areas. At least 1 stretch project each quarter.
 3. What do you need from your manager?
 > I need help solving problems. I don't need help tracking against goals -- I just want clear expectations so I know where I stand and I want help solving specific problems that I come to you with. I will often start a conversation with "Here's what I'm looking for...".
 4. From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
@@ -36,17 +36,17 @@ I often will come with questions for you -- in particular, if there's an organiz
 
 Outside of 1:1s, I expect you to track progress against the OKRs you've written each quarter. We should have a doc where we're tracking those -- please leave comments in the doc letting me know where you're at with your key results. If you are having issues with one of them, leave a note, and we'll talk about it during our 1:1. If focuses/goals need to change, that's fine! Let's just keep an open dialogue. Not meeting a key result or having to change your objectives because of shifting company or engineering priorities is fine, not meeting your goals because you forgot about them isn't okay.
 
-Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount you take is up to you, but I advise folks to take at least 5 days per quarter. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well.
+Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount of time one can take will vary based on the work, but the important thing is that we check-in regularly on how you're doing. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well.
 
 ### What to expect of me as your manager
 
-A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths. I'll always share what I'm working on -- you should never wonder what I'm doing! I'll also always try and share context from the greater engineering leadership and tech management team.
+A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths. I'll always share what I'm working on -- you should never wonder what I'm doing! I'll also always try and share context from the greater leadership team.
 
 I strive to be direct and clear in my feedback and direction. When you come to me with an issue or challenge I'll try and ask what you're looking for: advice or coaching. You can think of coaching as having me try to point you in the right direction without giving you what I think the answer is. If I'm not giving you the right kind of help, just tell me!
 
 If we leave our 1:1 and you feel like something was unclear, just ping me. Know that I never want to leave things hanging or have you leave a conversation feeling uncomfortable.
 
-You can expect me to devote some time each 1:1 to growth topics -- this can take the form of a conversation on your role at Casper, your career goals (both short and long term), and ways I (and engineering leadership) at Casper help you meet those goals. I'll more than likely keep notes of these conversations so we can easily check-in on progress in the future.
+You can expect me to devote some time each 1:1 to growth topics -- this can take the form of a conversation on your role, your career goals (both short and long term), and ways I and others in leadership can help you reach those goals. I'll more than likely keep notes of these conversations so we can easily check-in on progress in the future.
 
 If you disagree with something I do, come and talk to me. I'm always happy to talk through decisions.
 
