@@ -19,7 +19,7 @@
 > Build a cross-functional team of engineering and product leaders to support the goals of our campaign. Support the growth of those who report to me by pushing them out of their comfort zone and into new areas. At least 1 stretch project each quarter.
 3. What do you need from your manager?
 > I need help solving problems. I don't need help tracking against goals -- I just want clear expectations so I know where I stand and I want help solving specific problems that I come to you with. I will often start a conversation with "Here's what I'm looking for...".
-4. From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
+4. From your team?
 > I need clear communication (both up and down) -- tell me when you're struggling. Tell me when a deadline is slipping. Tell me when you need more support. And tell me when to back off.
 5. From your peers? (outside the team)
 > I expect clear and timely feedback -- if you disagree with my approach, or an action I took, tell me as soon as possible!
@@ -34,9 +34,7 @@ Please invest in your 1:1s -- it's your time. You own your 1:1, so it is my expe
 
 I often will come with questions for you -- in particular, if there's an organizational or engineering focus shift, expect me to come and ask you about it.
 
-Outside of 1:1s, I expect you to track progress against the OKRs you've written each quarter. We should have a doc where we're tracking those -- please leave comments in the doc letting me know where you're at with your key results. If you are having issues with one of them, leave a note, and we'll talk about it during our 1:1. If focuses/goals need to change, that's fine! Let's just keep an open dialogue. Not meeting a key result or having to change your objectives because of shifting company or engineering priorities is fine, not meeting your goals because you forgot about them isn't okay.
-
-Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount of time one can take will vary based on the work, but the important thing is that we check-in regularly on how you're doing. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well.
+Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount of time one can take will vary based on the work, but the important thing is that we check-in regularly on how you're doing. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well. It's really easy to forget to take time off in this unfamiliar and extraordinary period. The only thing I ask as a manager is that you give the team appropriate notice and make the request in Gusto.
 
 ### What to expect of me as your manager
 
