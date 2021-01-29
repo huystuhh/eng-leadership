@@ -5,7 +5,7 @@
 ### Feedback
 
 1. How do you like feedback - the medium (Slack, email, in-person, etc.)
-> Personally, I like feedback in-person (over VC). I'm also open to having tricky conversations over Slack, but when I say I want to take it offline, I ask that you respect that.
+> Personally, I like feedback in-person (over VC). I'm also open to having tricky conversations over Slack, but when I say I want to take it offline, I ask that you respect that. Oh, and like most, I don't love feedback/difficult conversations over Slack that start with a "Hey" and then allow time to pass. If you want to chat, and think it'll be uncomfortable, let's take it off Slack. Or send me your complete thought!
 2. How do you like feedback - routine like in 1:1s, or as-it-happens
 > Timely feedback is always better for me -- just grab me!
 3. How do you prefer to receive recognition? (public or private)
