@@ -34,7 +34,7 @@ Please invest in your 1:1s -- it's your time. You own your 1:1, so it is my expe
 
 I often will come with questions for you -- in particular, if there's an organizational or engineering focus shift, expect me to come and ask you about it.
 
-Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount of time one can take will vary based on the work, but the important thing is that we check-in regularly on how you're doing. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well. It's really easy to forget to take time off in this unfamiliar and extraordinary period. The only thing I ask as a manager is that you give the team appropriate notice and make the request in Gusto.
+Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount of time one can take will vary based on the work, but the important thing is that we check-in regularly on how you're doing. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well. It's really easy to forget to take time off in this unfamiliar and extraordinary period. The only thing I ask as a manager is that you give the team appropriate notice and make the request in our HR system.
 
 ### What to expect of me as your manager
 
