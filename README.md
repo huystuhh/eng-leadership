@@ -1,4 +1,4 @@
-# Fisher's Manager README
+# Huy's Totally-Not-A-Manager README
 
 ## How I operate
 
