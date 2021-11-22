@@ -23,29 +23,3 @@
 > I need clear communication (both up and down) -- tell me when you're struggling. Tell me when a deadline is slipping. Tell me when you need more support. And tell me when to back off.
 5. From your peers? (outside the team)
 > I expect clear and timely feedback -- if you disagree with my approach, or an action I took, tell me as soon as possible!
-
-### Expectations of folks who report to me
-
-Please invest in your 1:1s -- it's your time. You own your 1:1, so it is my expectation is for you to come with a topic to discuss. Here are some ideas:
-1. What are you worried or concerned about?
-2. What's some work that you've done recently that you're proud of?
-3. What's bothering you?
-4. What's blocking you from meeting your goals?
-
-I often will come with questions for you -- in particular, if there's an organizational or engineering focus shift, expect me to come and ask you about it.
-
-Everyone needs work/life balance, and my expectation is that everyone takes time off. The amount of time one can take will vary based on the work, but the important thing is that we check-in regularly on how you're doing. Make the most of your time off -- I will push you to turn off your email, Slack, and completely disconnect from work. I will lead by example here, and I expect folks to hold me accountable to that as well. It's really easy to forget to take time off in this unfamiliar and extraordinary period. The only thing I ask as a manager is that you give the team appropriate notice and make the request in our HR system.
-
-### What to expect of me as your manager
-
-A weekly 1:1 (unless you specifically prefer a different cadence) where we’ll work on challenges, goals, and priorities to support you and play to your strengths. I'll always share what I'm working on -- you should never wonder what I'm doing! I'll also always try and share context from the greater leadership team.
-
-I strive to be direct and clear in my feedback and direction. When you come to me with an issue or challenge I'll try and ask what you're looking for: advice or coaching. You can think of coaching as having me try to point you in the right direction without giving you what I think the answer is. If I'm not giving you the right kind of help, just tell me!
-
-If we leave our 1:1 and you feel like something was unclear, just ping me. Know that I never want to leave things hanging or have you leave a conversation feeling uncomfortable.
-
-You can expect me to devote some time each 1:1 to growth topics -- this can take the form of a conversation on your role, your career goals (both short and long term), and ways I and others in leadership can help you reach those goals. I'll more than likely keep notes of these conversations so we can easily check-in on progress in the future.
-
-If you disagree with something I do, come and talk to me. I'm always happy to talk through decisions.
-
-And most importantly, you should expect no surprises from me. If I have feedback, I will always give it to you in a timely manner. Nothing should be a surprise by the time we get to reviews (whatever cadence that is on).
