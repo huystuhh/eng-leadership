@@ -21,5 +21,5 @@
 > If I seem underwater or taking too long on things, I may need a voice to pull me back since sometimes I can get tunnel visioned on a technical task.
 4. From your team?
 > Expertise and thoughts on ways to approach a problem/task if I'm doing it in a weird way. Also just positive vibes and goss.
->5. From your peers? (outside the team)
+5. From your peers? (outside the team)
 > Outside perspective I suppose on things that may seem weird that the team is doing (on a technical/engineering level or otherwise)
